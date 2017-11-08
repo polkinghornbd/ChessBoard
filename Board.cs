@@ -105,6 +105,9 @@ namespace ChessBoard
 					Console.WriteLine("");
 				}
 			}
+
+			Console.WriteLine("Program finished.  Press enter to continue...");
+			Console.Read();
 		}
 	}
 }
